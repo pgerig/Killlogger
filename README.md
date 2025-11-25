@@ -15,7 +15,6 @@
 
 ### Uso rápido
 1. Conecta el Arduino con el sketch `Keylog.ino`
-2. Ejecuta `keylog.py` o el ya compilado `keylog_compiled.exe`
+2. Ejecuta `keylog.py` o el ya compilado `keylog.exe`
 3. Todo lo que escribas aparecerá en el Monitor Serie (9600 baudios)
 
-![Demo del Keylogger](sources/images/Image.png)

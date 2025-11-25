@@ -18,6 +18,4 @@
 2. Ejecuta `keylog.py` o el ya compilado `keylog_compiled.exe`
 3. Todo lo que escribas aparecerá en el Monitor Serie (9600 baudios)
 
-### Compilar tú mismo (recomendado)
-```bat
-compile.bat
+![Demo del Keylogger](sources/images/Image.png)
